@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { items } from "../../data";
 import Image from "next/image";
 
